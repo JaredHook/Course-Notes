@@ -1,0 +1,7 @@
+npm install -g @angular/cli --installs angular node files in current directory
+npm install --save-dev @angular-devkit/build-angular --Jeannie found this line which installs a newer package that helps resolve some dependencies
+
+
+ng new |file name| -- makes a new angular project
+ng generate component |component name| -- makes an angular component
+ng serve -- hosts the project to localhost:4200 by default
