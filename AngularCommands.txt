@@ -1,5 +1,5 @@
-npm install -g @angular/cli --installs angular node files in current directory
-npm install --save-dev @angular-devkit/build-angular --Jeannie found this line which installs a newer package that helps resolve some dependencies
+npm install -g @angular/cli --installs angular cli globally
+npm install --save-dev @angular-devkit/build-angular --Jeannie found this line which installs module dependencies for downloaded projects from git
 
 
 ng new |file name| -- makes a new angular project
